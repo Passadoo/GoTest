@@ -1,5 +1,3 @@
-# GoTest
-
 # Running Go-Code
-To run code in go, run:
+To run code in go, use:
 `go run <filepath>`
